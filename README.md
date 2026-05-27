@@ -56,21 +56,21 @@
 
 *   🎓 **Instructor @ UKM GAMESPACE** — Mentoring future game developers.
 *   🎮 **Game Jams:**
-    *   🏆 **Gameseed 2025** — Game Designer
-    *   🌌 [Interstellar Game Jam #8](https://itch.io/jam/interstellar-game-jam-8) — Programmer, Pixel Artist
-    *   ⚙️ [Gamejam Internal GT Season 13](https://itch.io/jam/gamejam-internal-gt-season-13) — Programmer
-    *   👻 [SCREAM JAM 2025](https://itch.io/jam/scream-jam-2025) — Tech Artist
-    *   🖌️ [Live 2 Dev Game Jam](https://itch.io/jam/live-2-dev-game-jam) — Pixel Artist
-    *   🎵 [GIMJAM 2025](https://itch.io/jam/gimjam-2025) — Programmer, Sound Engineer
-    *   🎨 [Garena Game Jam #2](https://itch.io/jam/garena-game-jam-2) — 2D Artist
+    *   🏆 **Gameseed 2025** : Game Designer
+    *   🌌 [Interstellar Game Jam #8](https://itch.io/jam/interstellar-game-jam-8) : Programmer, Pixel Artist
+    *   ⚙️ [Gamejam Internal GT Season 13](https://itch.io/jam/gamejam-internal-gt-season-13) : Programmer
+    *   👻 [SCREAM JAM 2025](https://itch.io/jam/scream-jam-2025) : Tech Artist
+    *   🖌️ [Live 2 Dev Game Jam](https://itch.io/jam/live-2-dev-game-jam) : Pixel Artist
+    *   🎵 [GIMJAM 2025](https://itch.io/jam/gimjam-2025) : Programmer, Sound Engineer
+    *   🎨 [Garena Game Jam #2](https://itch.io/jam/garena-game-jam-2) : 2D Artist
 
 ---
 
 ### 📂 Featured Public Projects
 
-*   🎵 **[Sugar Sonata](https://github.com/syahrandywaskito/sugar-sonata)** — Pixel game project built with Godot 4.
-*   🧩 **[Sokoban ATP](https://github.com/syahrandywaskito/sokoban-atp)** — Puzzle game implemented in Godot 4.
-*   🏫 **[godot-gamespace-s-genap](https://github.com/syahrandywaskito/godot-gamespace-s-genap)** — Teaching template repository for UKM GAMESPACE.
+*   🎵 **[Sugar Sonata](https://github.com/syahrandywaskito/sugar-sonata)** : Pixel game project built with Godot 4.
+*   🧩 **[Sokoban ATP](https://github.com/syahrandywaskito/sokoban-atp)** : Puzzle game implemented in Godot 4.
+*   🏫 **[godot-gamespace-s-genap](https://github.com/syahrandywaskito/godot-gamespace-s-genap)** : Teaching template repository for UKM GAMESPACE.
 
 > ℹ️ *Note: Most of my active game projects reside in private repositories.*
 
