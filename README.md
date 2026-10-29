@@ -12,14 +12,12 @@
 
 ### 💫 About Me
 
-*   📍 **Location:** Malang, East Java, Indonesia
+*   📍 **Location:** Surabaya, East Java, Indonesia
 *   🎮 **Roles:** Programmer, Game Designer, and Pixel Artist.
 *   🎯 **Current Focus:** Trying to monetize indie games and building interactive worlds.
 *   🗣️ **Languages:**
     *   🇮🇩 **Indonesian** & **Javanese** (Native)
     *   🇬🇧 **English** (Intermediate)
-    *   🇯🇵 **Japanese** (Basic)
-    *   🇨🇳 **Mandarin** (Learning)
 
 ---
 
